@@ -9,3 +9,10 @@ Translate English excel to Japanese excel file by using Amazon Translate.
 ５）　Amazon Translateを呼び出して各セル内の英文を翻訳
 ６）　翻訳した日本語文をもとのセルに上書き
 ７）　すべてのシートを日本語で書き換えたら、ファイルを保存して終了
+
+【要注意事項】
+①セル単位で単純置き換え翻訳なのでマクロやその他の機能には対応していないです。
+②誤訳、おかしな翻訳はAmazon Translateの精度なので、ご自身で修正お願いします。
+③AsIsで提供しているのでコメントは歓迎いたしますが、個々に対応はできかねますのでご理解ください。
+
+以上
